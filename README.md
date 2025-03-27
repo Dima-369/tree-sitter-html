@@ -1,3 +1,7 @@
+# Patches
+
+- modify `queries/highlights.scm` to be more like Jetbrains
+
 # tree-sitter-html
 
 [![CI][ci]](https://github.com/tree-sitter/tree-sitter-html/actions/workflows/ci.yml)

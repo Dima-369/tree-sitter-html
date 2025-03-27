@@ -3,6 +3,7 @@
 (doctype) @constant
 (attribute_name) @attribute
 (attribute_value) @string
+("\"") @string
 (comment) @comment
 
 [
